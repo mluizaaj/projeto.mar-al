@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+header h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}    
+    
+
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #333;
+}
+
+main h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+    
+}
+
+main p, ul {
+    margin-bottom: 1.5rem;
+    text-indent: 1.5rem; 
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+}
+
+ul li {
+    list-style: none;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #0066cc;
+}
+
+ul li a:hover {
+    text-decoration: underline;
+}
+img {
+    width: 120px;
+    height: 80px;
+    position: absolute;
+    top: 40px; 
+    left: 40px; 
+}
+hr {
+    border: none; /* Remove bordas padrão */
+    height: 3px; /* Espessura da linha */
+    background-color: black; /* Cor da linha */
+    width: 50%; /* Largura da linha */
+    margin: 0 auto 20px; /* Centraliza e adiciona espaçamento inferior */
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+}
+.conteudo ul li {
+    margin: 10px 0; 
+}
+.conteudo ul li a {
+    text-decoration: none;
+    color: #000000; 
+    font-weight: bold; 
+}
+
+
+.conteudo ul li a:hover {
+    text-decoration: underline;
+}
+
+.parte {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+body h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    margin-bottom: 10px;
+    left: -100px;
+    margin-top: -70px;
+}
+.restante-conteudo {
+    background-color: white;
+    width: 90%;
+    margin: auto;
+    font-weight: normal;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #efefef;
+}
+.imagem_logo{
+    width: 100px;
+    height: 80px;
+    position: absolute;
+    top: 0; 
+    left: 10px; 
+}
+.conteúdo{
+    width: 190px;
+    height: 190px;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    border: 0.5px solid #000000;
+}
+.cont{
+    width: 190px;
+    height: 20%;
+    background-color: cornflowerblue;
+    border-bottom: 0.5px solid #000000;
+}
+.titulo{
+    width: 420px;
+    height: 10px;
+    font-family: "Montserrat", sans-serif;
+    font-style: italic;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.corpo_cont{
+    width: 190px;
+    height: 75%;
+    border-style: solid;
+    border-top: 0.5px;
+    border-bottom: 0.5px;
+    border-left: 0.5px;
+    border-right: 0.5px;
+}
+.tópico{
+    color:#000000
+}
